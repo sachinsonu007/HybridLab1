@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89140409967",
+    "firebase_url": "https://mytodolist-8ce15-default-rtdb.firebaseio.com",
+    "project_id": "mytodolist-8ce15",
+    "storage_bucket": "mytodolist-8ce15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89140409967:android:aba40ff51e3f9eb176ff9a",
+        "android_client_info": {
+          "package_name": "com.showcase.fierynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89140409967-jmkqfogtftffak72tgs1j96jkujoplf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn6_iwzHBvKq451oTPLvBpF_tIAYw14bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89140409967-jmkqfogtftffak72tgs1j96jkujoplf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
